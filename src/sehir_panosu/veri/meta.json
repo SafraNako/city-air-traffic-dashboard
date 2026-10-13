@@ -1,0 +1,27 @@
+{
+ "fetched": "2026-10-13",
+ "air": {
+  "start": "2019-01-01T00",
+  "hours": 68232,
+  "stations": 13
+ },
+ "traffic_hourly": {
+  "start": "2021-11-08T19",
+  "hours": 43201
+ },
+ "traffic_daily": {
+  "first": "2015-08-06",
+  "last": "2024-10-18",
+  "days": 3332
+ },
+ "weather": {
+  "start": "2019-01-01T00",
+  "hours": 68088
+ },
+ "cams": {
+  "start": "2019-01-01T00",
+  "hours": 68232
+ },
+ "holidays": 111,
+ "coast_rings": 2
+}
